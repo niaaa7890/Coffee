@@ -40,12 +40,12 @@ const Hero = () => {
           className="flex gap-2"></motion.div>
           <a href="#menu">
             <button className="bg-emerald-600 text-white px-3 py-2 rounded-md">
-              View Menu
+              Lihat Menu
             </button>
           </a>
           <a href="#menu">
             <button className=" bg-transparent border border-emerald-800 text-emerald-800 px-3 py-2 rounded-md">
-              Our Story
+              Story Kami
             </button>
           </a>
         </div>
