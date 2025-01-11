@@ -54,23 +54,23 @@ const Hero = () => {
           <motion.img 
            initial={{opacity:0,scale:0.5}}
            whileInView={{opacity:1,scale:1}}
-           transition={{duration:1.3,delay:"0.5"}}
+           transition={{duration:1.3,delay:0.5}}
           src={coffee} alt="" className="w-[500px]" />
         </div>
         <motion.img 
          initial={{opacity:0,x:400,scale:0.7}}
          whileInView={{opacity:1,x:0,scale:1,rotate:45}}
-         transition={{duration:1.6,delay:"0.7"}}
+         transition={{duration:1.6,delay:0.7}}
         src={Bean1} alt="" className="absolute hidden md:block bottom-20 left-40 x-10 w-20 rotate-90" />
         <motion.img
         initial={{opacity:0,x:600,y:200,scale:0.7}}
         whileInView={{opacity:1,x:0,y:0,scale:1}}
-        transition={{duration:1.6,delay:"0.7"}}
+        transition={{duration:1.6,delay:0.7}}
         src={Bean2} alt="" className="absolute hidden md:block top-14 left-10 w-20 rotate-30" />
         <motion.img
         initial={{opacity:0,x:-100,y:100,scale:0.7}}
         whileInView={{opacity:1,x:0,y:0,scale:1,rotate:45}}
-        transition={{duration:1.6,delay:"0.7"}}
+        transition={{duration:1.6,delay:0.7}}
         src={Bean1} alt="" className="absolute hidden md:block w-20 top-10 right-20 -rotate-45" />
       </div>
     </div>
