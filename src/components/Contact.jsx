@@ -46,7 +46,7 @@ const Contact = () => {
               type="text"
               id="name"
               name="nama"
-              placeholder="Nama Anda"
+              placeholder="Nama"
               className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2
                 focus:ring-emerald-800"
             />
@@ -62,7 +62,7 @@ const Contact = () => {
               type="email"
               id="email"
               name="email"
-              placeholder="Email Anda"
+              placeholder="Email"
               className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2
                 focus:ring-emerald-800"
             />
@@ -77,7 +77,7 @@ const Contact = () => {
             <textarea
               name="pesan"
               id="pesan"
-              placeholder="Pesan Anda"
+              placeholder="Pesan"
               rows="5"
               className="w-full py-2 px-4  border border-gray-300 rounded-lg focus:outline-none focus:ring-2
                 focus:ring-emerald-800"
