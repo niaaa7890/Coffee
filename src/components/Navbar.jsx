@@ -30,7 +30,7 @@ const Navbar = () => {
               <li className="cursor-pointer">Testimoni</li>
             </a>
           </ul>
-          <a href="#contact"><button className="bg-emerald-600 text-white hover:bg-emerald-700 px-3 py-1 rounded-md">Contact
+          <a href="#contact"><button className="bg-emerald-600 text-white hover:bg-emerald-700 px-3 py-1 rounded-md">Kontak
           </button></a>
           
         </nav>
