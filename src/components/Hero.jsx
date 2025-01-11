@@ -59,7 +59,7 @@ const Hero = () => {
         </div>
         <motion.img 
          initial={{opacity:0,x:400,scale:0.7}}
-         whileInView={{opacity:1,x:0,scale:1,rotate:45}}
+         whileInView={{opacity:1,x:0,scale:1,rotate:80}}
          transition={{duration:1.6,delay:0.7}}
         src={Bean1} alt="" className="absolute hidden md:block bottom-20 left-40 x-10 w-20 rotate-90" />
         <motion.img
