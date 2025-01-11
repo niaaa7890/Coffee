@@ -10,19 +10,19 @@ const MenuData = [
     id: 1,
     img: Img2,
     name: "Cappuccino",
-    description: "A cappuccino is a coffee drink that is made with a combination of espresso.",
+    description: "Cappuccino adalah minuman kopi yang dibuat dengan kombinasi espresso.",
   },
   {
     id: 2,
     img: Img1,
     name: "Latte",
-    description: "A latte is a coffee drink that is made with a combination of espresso and steamed.",
+    description: "Latte adalah minuman kopi yang dibuat dengan kombinasi espresso dan dikukus.",
   },
   {
     id: 3,
     img: Img3, // Changed from Img2 to Img3 for Espresso image.
     name: "Espresso",
-    description: "Espresso is a concentrated coffee drink that is made by forcing pressurized hot water through.",
+    description: "Espresso adalah minuman kopi pekat yang dibuat dengan cara memasukkan air panas bertekanan.",
   }
 ];
 
