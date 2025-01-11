@@ -26,7 +26,7 @@ const ResponsiveMenu = () => {
             </a>
             <a href="#contact">
               <button onClick={()=>setOpen(false)} className="bg-emerald-600 text-white hover:bg-emerald-900 px-3 py-1 rounded-md">
-                Contact
+                Kontak
               </button>
             </a>
           </ul>
